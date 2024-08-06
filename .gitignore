@@ -8,3 +8,9 @@ venv/
 .DS_Store
 .fseventsd
 .Spotlight-V100
+
+*.pyc
+*~
+__pycache__
+
+db.sqlite3
