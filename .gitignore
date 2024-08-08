@@ -1,16 +1,17 @@
-venv/
+.venv
+.env
 
-.vscode/
-.history/
-*.code-workspace
+db.sqlite3
+
+*.pyc
+*~
+__pycache__
 
 ._*
 .DS_Store
 .fseventsd
 .Spotlight-V100
 
-*.pyc
-*~
-__pycache__
-
-db.sqlite3
+.vscode/
+.history/
+*.code-workspace
